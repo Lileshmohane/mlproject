@@ -2,7 +2,7 @@
 
 #  flowchart
 remember you are in bse cmd
-
+ create  -p venv python===3.9 -y
 #commands
 conda activate venv/
 
